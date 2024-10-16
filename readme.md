@@ -49,6 +49,7 @@ Open a new terminal and navigate to the frontend folder:
    npm run dev
 ### 3. Access the Application
 Once both the backend and frontend servers are running, you can access the chat application through your browser at:
+
     ```http
     http://localhost:3000
     
