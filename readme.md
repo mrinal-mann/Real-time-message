@@ -28,10 +28,9 @@ This is a simple chat application built using raw WebSockets in Node.js. It allo
 2. Compile the TypeScript code into JavaScript:
    ````bash
     npx tsc -b
-   3.Start the backend server:
+3.Start the backend server:
     ```bash
     node dist/index.js
-   ````
 
 ### 2. Frontend Setup
 
