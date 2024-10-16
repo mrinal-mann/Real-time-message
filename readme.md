@@ -56,5 +56,6 @@ Once both the backend and frontend servers are running, you can access the chat 
 
 ## Demo Video
 
-[Watch the demo video](screen-capture_2.mp4)
+![screen-capture_2](https://github.com/user-attachments/assets/982218fb-9b4a-4538-94e6-e5ecbd8250ab)
+
 
