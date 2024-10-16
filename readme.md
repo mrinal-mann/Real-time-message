@@ -54,3 +54,7 @@ Once both the backend and frontend servers are running, you can access the chat 
     http://localhost:3000
     
 
+## Demo Video
+
+[Watch the demo video](screen-capture_2.mp4)
+
